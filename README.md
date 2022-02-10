@@ -5,7 +5,7 @@ Successivamente dal proprio ide basta andare sulla voce "Build",  il progetto ve
 ##Esecuzione JAR
 Il file jar puo essere eseguito in qualsiasi Directory basta che al suo interno sia presente la cartella "input" e il file di properties reperibile all'interno della root del progetto.
 Se verra' eseguito il jar senza aver caricato il file ServiceMenu.json dentro la cartella "input" il programma si fermerà stampando a console il seguente messaggio 
-"Il file di input nel percorso :""path del presunto fil""  non esiste.Il programma verra terminato in modo da permettere all'utente di inserire il file."
+"Il file di input nel percorso :""path del presunto file""  non esiste.Il programma verra terminato in modo da permettere all'utente di inserire il file."
 
 comando per eseguire il jar:
 
