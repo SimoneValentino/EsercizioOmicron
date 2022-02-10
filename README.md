@@ -1,5 +1,5 @@
 ## Creazione file Jar
-Per poter creare il file jar si dovra clonare la repositori in una cartella a scelte sul proprio pc,una volta clonato il progetto lo si dovrà aprre con un ide a scelta.(si consiglia netbeans)
+Per poter creare il file jar si dovra clonare la repository in una cartella a scelte sul proprio pc,una volta clonato il progetto lo si dovrà aprre con un ide a scelta.(si consiglia netbeans)
 Successivamente dal proprio ide basta andare sulla voce "Build",  il progetto verra buildato nella cartella "jar" creatasi in automatico nella WD del progetto.
 
 ##Esecuzione JAR
