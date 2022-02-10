@@ -98,7 +98,7 @@ public class ServiceMenuStarter {
         }      
          File output = new File (properties.getProperty("outputFileDir"));
          output.mkdir();
-        try ( FileOutputStream outputStream = new FileOutputStream(properties.getProperty("outputFileDir")+"\\JavaBooks.xlsx")) {
+        try ( FileOutputStream outputStream = new FileOutputStream(properties.getProperty("outputFileDir")+"\\ServiceMenu.xlsx")) {
             workbook.write(outputStream);
         } catch (FileNotFoundException ex) {
            System.out.println(ex.getMessage() + Arrays.toString(ex.getStackTrace()));
